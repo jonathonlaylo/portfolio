@@ -1,0 +1,21 @@
+@import './reset.css';
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background-color: black;
+  height: 90px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: 124px;
+}
+
