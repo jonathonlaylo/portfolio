@@ -8,6 +8,11 @@
   height: 80px;
 }
 
+.goldengate{
+  height: 600px;
+  padding: 15px;
+}
+
 .App-header {
   background-color: black;
   height: 90px;
